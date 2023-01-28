@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: BSD-3-Clause
+# Copyright(c) 2023 Gaëtan Rivet
+
 O ?= $(HOME)
 O := $(abspath $(O))
 
